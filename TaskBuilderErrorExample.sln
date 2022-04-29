@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TaskBuilderErrorExample", "TaskBuilderErrorExample.fsproj", "{1A3178DA-7CB1-49B0-A561-F09DAE16B368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3178DA-7CB1-49B0-A561-F09DAE16B368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3178DA-7CB1-49B0-A561-F09DAE16B368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3178DA-7CB1-49B0-A561-F09DAE16B368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3178DA-7CB1-49B0-A561-F09DAE16B368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F8D0BD-9080-491F-AB00-CADD6EB1AC63}
+	EndGlobalSection
+EndGlobal
